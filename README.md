@@ -88,11 +88,11 @@ This will launch the web app in your default browser.
 ---
 
 ## 📷 Screenshots
-
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Upload+Resume+Screenshot)
+![ss1](https://github.com/user-attachments/assets/004d1f79-9c67-4f2d-9228-3f60516a7c53)
 *Upload screen*
 
-![Feedback Screenshot](https://via.placeholder.com/800x400.png?text=AI+Feedback+Screenshot)
+![ss2](https://github.com/user-attachments/assets/6c5aadab-5aa9-4afc-b1f3-9cfc06562b8b)
+![ss3](https://github.com/user-attachments/assets/bf0a949b-2d49-4a29-bbfb-ed540b3c8596)
 *AI-generated feedback*
 
 ---
